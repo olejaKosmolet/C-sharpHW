@@ -1,4 +1,4 @@
-﻿// Task 2
+﻿// Task 4
 
 Console.Write("Введите число №1: ");
 double firstNumber = Convert.ToDouble(Console.ReadLine());
