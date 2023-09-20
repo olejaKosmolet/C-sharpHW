@@ -11,5 +11,3 @@ else
 {
     Console.WriteLine("Ваше число нечётное!");
 }
-
-
